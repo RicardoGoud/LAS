@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Laravel\CRUD\resources\views/posts/vakken.blade.php ENDPATH**/ ?>
